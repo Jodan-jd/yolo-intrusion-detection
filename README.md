@@ -115,7 +115,7 @@ yolo-intrusion-detection/
 
 ## 🎥 Demo
 
-👉 [Demo](Add your video link here — YouTube or Drive)](https://youtu.be/1TTiQiFYzfQ)
+👉 [Demo](https://youtu.be/1TTiQiFYzfQ)
 
 ---
 
