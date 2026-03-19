@@ -1,0 +1,14 @@
+# Core YOLO (Ultralytics)
+ultralytics>=8.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Numerical Processing
+numpy>=1.23.0
+
+# System Monitoring (used for performance tracking)
+psutil>=5.9.0
+
+# (Optional but useful)
+matplotlib>=3.6.0
