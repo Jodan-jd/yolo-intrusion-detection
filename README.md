@@ -121,7 +121,7 @@ yolo-intrusion-detection/
 
 ## 📄 Documentation
 
-* 📘 Full Report → `docs/project-report.pdf`
+* 📘 Full Report → `[docs/project-report.pdf](https://github.com/Jodan-jd/yolo-intrusion-detection/blob/main/docs/Project%20-%20report.pdf)`
 * ⚡ Quick Start → QUICKSTART.md
 * 🛠️ Troubleshooting → TROUBLESHOOTING.md
 
